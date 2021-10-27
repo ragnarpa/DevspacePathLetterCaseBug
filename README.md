@@ -2,9 +2,9 @@
 
 ## Reproduction
 
-```
-# On macOS
+Start Docker for Desktop on macOS. Enable Kubernetes.
 
+```
 git clone https://github.com/ragnarpa/DevspacePathLetterCaseBug.git
 
 # `cd` into DevspacePathLetterCaseBug but directory name in lowercase
