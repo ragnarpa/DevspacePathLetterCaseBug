@@ -1,0 +1,17 @@
+{
+  "name": "devspacepathlettercasebug",
+  "version": "1.0.0",
+  "description": "letter case bug demo in Devspace",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragnarpa/DevspacePathLetterCaseBug.git"
+  },
+  "author": "Ragnar Paide",
+  "license": "ISC",
+  "homepage": "https://github.com/ragnarpa/DevspacePathLetterCaseBug#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
